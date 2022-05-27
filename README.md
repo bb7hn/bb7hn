@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Batuhan
 - 👀 I’m interested with Frontend Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning   ~~React ~~ Svelte
 - 📫 How to reach me : iletisim@batuhanozen.com
 - My Currently Frontend Repo is [this](http://github.com/bb7hn/frontend "this")
 - Here is [My Website](http://batuhanozen.com "My Website")
