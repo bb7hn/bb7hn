@@ -1,9 +1,0 @@
-.grid{
-display:grid; grid-template-columns: repeat(7,auto);gap:0.2rem
-}
-.flex{
-    display:flex
-}
-.test{
-    color: red;
-}
