@@ -1,12 +1,5 @@
-<style>
-.grid{
-display:grid; grid-template-columns: repeat(7,auto);gap:0.2rem
-}
-.flex{
-    display:flex
-}
-</style>
-<h1 align="center">Hi 👋, I'm Batuhan</h1>
+<link rel="stylesheet" href="./style.css">
+<h1 class="test" align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A front-end developer who is eager to learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bb7hn&label=Profile%20views&color=0e75b6&style=default" alt="bb7hn" /> </p>
