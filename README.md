@@ -23,14 +23,18 @@
   /></a>
 </p>
 
+- 🏢 I am currently working at [**SimpliSales**](https://simplisales.com/)<a href="" target="_blank"></a>
+
 - 🔭 I’m currently working on **<a href="https://bb7hn.github.io/SimpleSlider/" target="_blank">Simple Slider</a>**
+
 - 👨🏻‍💻 Some of my projects are available at **https://batuhanozen.com/#portfolio**
+
 - 👀 I’m interested in **Frontend Development**
+
 - 📫 How to reach me **<a href="iletisim@batuhanozen.com" target="_blank">iletisim@batuhanozen.com</a>**
 
-- 📄 Know about my experiences **<a href="https://batuhanozen.com/Resume_Batuhan_Ozen.pdf" target="_blank">https://batuhanozen.com/Resume_Batuhan_Ozen.pdf</a>**
+- 📄 Here is my **<a href="https://batuhanozen.com/Resume_Batuhan_Ozen.pdf" target="_blank">résumé</a>**
 
-- 🏢 I am currently working at [**SimpliSales**](https://simplisales.com/)<a href="" target="_blank"></a>.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/bb4hn" target="blank"
@@ -238,18 +242,16 @@
     />
   </a>
 </div>
-
+<br>
 <p>
   <img
-    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=bb7hn&show_icons=true&locale=en&layout=compact&theme=react&langs_count=10"
     alt="bb7hn"
   />
 </p>
 
 <p>
-  &nbsp;<img
-    align="center"
+  <img
     src="https://github-readme-stats.vercel.app/api?username=bb7hn&show_icons=true&locale=en&theme=react"
     alt="bb7hn"
   />
