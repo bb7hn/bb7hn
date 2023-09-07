@@ -23,9 +23,9 @@
   /></a>
 </p>
 
-- 🏢 I am currently working at [**SimpliSales**](https://simplisales.com/)<a href="" target="_blank"></a>
+- 🏢 I am currently working at [**simplisales**](https://simplisales.com/)<a href="" target="_blank"></a>
 
-- 🔭 I’m currently working on **<a href="https://bb7hn.github.io/SimpleSlider/" target="_blank">Simple Slider</a>**
+- 🔭 I’m currently working on **<a href="https://bb7hn.github.io/SimpleSlider/" target="_blank">React Custom Hooks</a>**
 
 - 👨🏻‍💻 Some of my projects are available at **https://batuhanozen.com/#portfolio**
 
