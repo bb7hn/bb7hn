@@ -23,7 +23,7 @@
   /></a>
 </p>
 
-- 🏢 I am currently working at [**simplisales**](https://simplisales.com/)<a href="" target="_blank"></a>
+- 🏢 I am open to offers
 
 - 🔭 I’m currently working on **<a href="https://bb7hn.github.io/SimpleSlider/" target="_blank">React Custom Hooks</a>**
 
